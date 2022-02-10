@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there 👋
+
+- ⚒️ I’m currently working on my portfolio projects.
+- 📖 I’m currently learning Flutter for mobile and desktop.
+- 🤝 I’m looking to collaborate on designing UI/UX.
+- 🦋 I’m looking for help with designing beautiful apps.
+- 🍊 Ask me about what is my favorite color.
+- 📨 How to reach me: Through my [primary](mailto:fcaboyo@gmail.com) or [secondary](mailto:caboyof@gmail.com) email.
+<!-- - ⭐ Pronouns: Wee/Woo -->
+
+- ⚡ Fun fact: Did you know that [Mort](https://static.wikia.nocookie.net/penguinsofmadagascar/images/f/f8/Ahkjmort.png/revision/latest?cb=20190727144938) has 12 ex-wives, absorbed his grandparent's souls and other Morts in the multiverse? 
 
 <!--
 **pendraic/pendraic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
