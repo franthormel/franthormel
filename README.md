@@ -1,7 +1,8 @@
 # Hello there 👋
 
 - ⚒️ I’m currently working on my portfolio projects.
-- 📖 I’m currently learning Flutter for mobile and desktop.
+- ✍️ I’m currently learning Flutter for mobile and desktop.
+- 📖 I'm currently [reading books](https://www.goodreads.com/user/show/133402057-francis-anthony-carmel) of my interests.
 - 🤝 I’m looking to collaborate on designing UI/UX.
 - 🦋 I’m looking for help with designing beautiful apps.
 - 🍊 Ask me about what is my favorite color.
