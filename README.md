@@ -1,8 +1,9 @@
 # Hello there 👋
 
+- 🌐 You can visit my [personal website](https://franthormel.github.io/).
 - ⚒️ I’m currently building a personal VS Code theme inspired by Firefox Colorways.
 - 📖 I'm currently [reading books](https://www.goodreads.com/user/show/133402057-francis-anthony-carmel) of my interests.
-- 📨 How to reach me: Through my [primary](mailto:fcaboyo@gmail.com) or [secondary](mailto:caboyof@gmail.com) email.
+- 📨 Reach out through my [primary](mailto:fcaboyo@gmail.com) or [secondary](mailto:caboyof@gmail.com) email.
 <!-- - ⚡ Fun fact: Did you know that Mort has 12 ex-wives, absorbed his grandparent's souls and also absorb other Morts in the multiverse?  -->
 
 <!--
