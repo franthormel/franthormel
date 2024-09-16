@@ -2,7 +2,7 @@
 
 Latest listed from top to bottom.
 
-## [Forent]
+## Forent
 - **Source**? [Code](https://github.com/franthormel/forent)
 - How? Next.JS, Prisma, Storybook, Cypress, Jest, TailwindCSS, Typescript
 - Why? Improve web design and test React's features
