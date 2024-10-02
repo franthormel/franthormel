@@ -1,9 +1,14 @@
+Visit my [personal website](https://franthormel.github.io)
+
 # Finished works
 
-Latest listed from top to bottom.
+Latest are listed from top to bottom.
 
-## Forent
-- **Source**? [Code](https://github.com/franthormel/forent)
+## [Shiny](https://github.com/franthormel/shiny)
+- How? Shiny, Python, Pandas, Plotly
+- Why? Data visualization
+
+## [Forent](https://github.com/franthormel/forent)
 - How? Next.JS, Prisma, Storybook, Cypress, Jest, TailwindCSS, Typescript
 - Why? Improve web design and test React's features
 
@@ -16,7 +21,7 @@ Latest listed from top to bottom.
 - **Source**? [Code](https://github.com/franthormel/colorways-vscode)
 - What? Theme for VS code inspired by [Firefox Colorways](https://support.mozilla.org/en-US/kb/personalize-firefox-colorways)
 - How? Angular, TypeScript, RxJS, Karma, Jasmine, Firebase
-- Why? Theme fits my preferred color palette
+- Why? Theme fits preferred color palette
 
 ## [Caster](https://angular-caster.web.app/weather) 🌥️
 - **Source**? [Code](https://github.com/franthormel/caster)
