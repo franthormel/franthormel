@@ -1,14 +1,17 @@
-Visit my [personal website](https://franthormel.github.io)
+ Visit my [personal website](https://franthormel.github.io)
 
 # Finished works
 
 Latest are listed from top to bottom.
 
 ## [Shiny](https://github.com/franthormel/shiny)
+- What?
+  - `ph-imits`: Visualize the total trade data of the Philippines from 1991 until 2023
 - How? Shiny, Python, Pandas, Plotly
 - Why? Data visualization
 
 ## [Forent](https://github.com/franthormel/forent)
+- What? Apartment rental web application clone similar to Zillow, Trulia, Redfin, and their likes.
 - How? Next.JS, Prisma, Storybook, Cypress, Jest, TailwindCSS, Typescript
 - Why? Improve web design and test React's features
 
