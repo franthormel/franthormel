@@ -20,6 +20,9 @@ Latest are listed from top to bottom.
 - How? HTML, SCSS, Ruby, Jekyll
 - Why? Free
 
+<details>
+  <summary>View Past Works</summary>
+ 
 ## [Colorways VS Code](https://marketplace.visualstudio.com/items?itemName=Franthormel.colorways) 🌈
 - **Source**? [Code](https://github.com/franthormel/colorways-vscode)
 - What? Theme for VS code inspired by [Firefox Colorways](https://support.mozilla.org/en-US/kb/personalize-firefox-colorways)
@@ -37,3 +40,4 @@ Latest are listed from top to bottom.
 - What? [Bon Appetit](https://www.bonappetit.com/) *demo* Android application
 - How? Flutter
 - Why? Bon Appetit do not have an available application in the Play Store.
+</details>
